@@ -1,0 +1,6 @@
+getmsg.o: \
+ /usr/src/dialogic/redistributable-runtime/LiS/LiS-2.19/libc/getmsg.c \
+ /usr/include/stdc-predef.h
+putmsg.o: \
+ /usr/src/dialogic/redistributable-runtime/LiS/LiS-2.19/libc/putmsg.c \
+ /usr/include/stdc-predef.h
